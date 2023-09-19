@@ -2,3 +2,4 @@
 /users/migrations/
 /restapp/migrations/
 /MQTT_RestServer/.env
+/.idea/
